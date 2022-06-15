@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>220-zero-circle copy</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0-Simplicity--Card-PDP---Tablet" transform="translate(-752.000000, -3012.000000)">
+            <g id="220-zero-circle-copy" transform="translate(752.000000, 3012.000000)">
+                <circle id="Oval" fill="#333333" fill-rule="nonzero" cx="30" cy="30" r="30"></circle>
+                <text id="0%" font-family="Interstate-Light, Interstate" font-size="30" font-weight="300" fill="#FFFFFF">
+                    <tspan x="17.059" y="40">0</tspan>
+                    <tspan x="33.319" y="32" font-family="Interstate-Regular, Interstate" font-size="18" font-weight="normal">%</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
